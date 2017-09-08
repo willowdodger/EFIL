@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0386cd8c-1b7e-41f9-9e8b-326602ac4100" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/crawler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/domain.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/functionsForCrawler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/linkFinder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/main.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/brainOfEfil/think.py" afterPath="$PROJECT_DIR$/brain/think.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/heartOfEfil/survive.py" afterPath="$PROJECT_DIR$/heart/survive.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/letsPlayWithEfil/snakeGame.py" afterPath="$PROJECT_DIR$/games/snakeGame.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/letsPlayWithEfil/ticTacToe.py" afterPath="$PROJECT_DIR$/games/ticTacToe.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/EFIL.iml" afterPath="$PROJECT_DIR$/.idea/EFIL.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sandbox/NNWP.py" afterPath="$PROJECT_DIR$/sandbox/NNWP.py" />
-    </list>
+    <list default="true" id="0386cd8c-1b7e-41f9-9e8b-326602ac4100" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="55" />
     <option name="y" value="64" />
     <option name="width" value="1301" />
@@ -389,7 +374,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="64" width="1325" height="783" extended-state="7" />
+    <frame x="55" y="64" width="1325" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27868852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
