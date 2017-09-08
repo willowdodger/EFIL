@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0386cd8c-1b7e-41f9-9e8b-326602ac4100" name="Default" comment="" />
+    <list default="true" id="0386cd8c-1b7e-41f9-9e8b-326602ac4100" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/crawler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/domain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/functionsForCrawler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/linkFinder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webCrawler/main.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/brainOfEfil/think.py" afterPath="$PROJECT_DIR$/brain/think.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/heartOfEfil/survive.py" afterPath="$PROJECT_DIR$/heart/survive.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/letsPlayWithEfil/snakeGame.py" afterPath="$PROJECT_DIR$/games/snakeGame.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/letsPlayWithEfil/ticTacToe.py" afterPath="$PROJECT_DIR$/games/ticTacToe.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/EFIL.iml" afterPath="$PROJECT_DIR$/.idea/EFIL.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sandbox/NNWP.py" afterPath="$PROJECT_DIR$/sandbox/NNWP.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,23 +26,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NNWP.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sandbox/NNWP.py">
+      <file leaf-file-name="functionsForCrawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webCrawler/functionsForCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webCrawler/crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="96" lean-forward="false" selection-start-line="49" selection-start-column="96" selection-end-line="49" selection-end-column="96" />
               <folding>
-                <element signature="e#315#333#0" expanded="true" />
+                <element signature="e#34#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NNWP.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/NNWP.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="7" />
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webCrawler/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webCrawler/domain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkFinder.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webCrawler/linkFinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +87,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,7 +98,11 @@
       <find>lambda</find>
       <find>map</find>
       <find>quit</find>
+      <find>tag</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,12 +130,17 @@
         <option value="$PROJECT_DIR$/sandbox/testJupyter.ipynb" />
         <option value="$PROJECT_DIR$/sandbox/workingOutOnAI.py" />
         <option value="$PROJECT_DIR$/sandbox/deprecated/NNWP.ipynb" />
-        <option value="$PROJECT_DIR$/sandbox/NNWP.ipynb" />
         <option value="$PROJECT_DIR$/sandbox/NNWP.py" />
+        <option value="$PROJECT_DIR$/sandbox/NNWP.ipynb" />
+        <option value="$PROJECT_DIR$/webCrawler/demo.py" />
+        <option value="$PROJECT_DIR$/webCrawler/linkFinder.py" />
+        <option value="$PROJECT_DIR$/webCrawler/domain.py" />
+        <option value="$PROJECT_DIR$/webCrawler/crawler.py" />
+        <option value="$PROJECT_DIR$/webCrawler/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="55" />
     <option name="y" value="64" />
     <option name="width" value="1301" />
@@ -106,6 +165,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -121,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,25 +194,18 @@
             <path>
               <item name="EFIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="EFIL" type="462c0819:PsiDirectoryNode" />
-              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EFIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EFIL" type="462c0819:PsiDirectoryNode" />
-              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="deprecated" type="462c0819:PsiDirectoryNode" />
+              <item name="webCrawler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../newWebsite/mysite" />
     <property name="SearchEverywhereHistoryKey" value="theano&#9;null&#9;null" />
   </component>
@@ -158,19 +214,21 @@
       <console-settings module-name="EFIL" sdk-home="/usr/bin/python3.5">
         <option name="mySdkHome" value="/usr/bin/python3.5" />
         <option name="myModuleName" value="EFIL" />
+        <option name="myAddSourceRoots" value="true" />
       </console-settings>
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/letsPlayWithEfil" />
-      <recent name="$PROJECT_DIR$/sandbox/deepLearningA_to_Z" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webCrawler" />
       <recent name="$PROJECT_DIR$/sandbox" />
       <recent name="$PROJECT_DIR$/sandbox/deprecated/learningPython" />
       <recent name="$PROJECT_DIR$/sandbox/deprecated" />
       <recent name="$PROJECT_DIR$/sandbox/learningPython" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/letsPlayWithEfil" />
+      <recent name="$PROJECT_DIR$/sandbox/deepLearningA_to_Z" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NNWP">
+  <component name="RunManager" selected="Python.main">
     <configuration name="EFIL" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,53 +277,53 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="snakeGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letsPlayWithEfil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webCrawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EFIL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letsPlayWithEfil/snakeGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webCrawler/crawler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="testWithoutJupyter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sandbox" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webCrawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EFIL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox/deprecated/learningPython/testWithoutJupyter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webCrawler/functionsForCrawler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ticTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letsPlayWithEfil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webCrawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EFIL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letsPlayWithEfil/ticTacToe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webCrawler/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +347,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.EFIL" />
-      <item index="1" class="java.lang.String" itemvalue="Python.snakeGame" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ticTacToe" />
-      <item index="3" class="java.lang.String" itemvalue="Python.testWithoutJupyter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.workingOutOnAI" />
-      <item index="5" class="java.lang.String" itemvalue="Python.NNWP" />
+      <item index="1" class="java.lang.String" itemvalue="Python.workingOutOnAI" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NNWP" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.crawler" />
+      <item index="5" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NNWP" />
-        <item index="1" class="java.lang.String" itemvalue="Python.workingOutOnAI" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testWithoutJupyter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ticTacToe" />
-        <item index="4" class="java.lang.String" itemvalue="Python.snakeGame" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.crawler" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.NNWP" />
+        <item index="4" class="java.lang.String" itemvalue="Python.workingOutOnAI" />
       </list>
     </recent_temporary>
   </component>
@@ -331,18 +389,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="64" width="1325" height="783" extended-state="6" />
+    <frame x="55" y="64" width="1325" height="783" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26385635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27868852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5058824" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40461537" sideWeight="0.49411765" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25538462" sideWeight="0.5035294" order="2" side_tool="false" content_ui="tabs" x="45" y="363" width="1321" height="220" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27076924" sideWeight="0.4964706" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984496" sideWeight="0.4972549" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39692307" sideWeight="0.4972549" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -359,17 +418,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5058824" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40461537" sideWeight="0.49411765" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25538462" sideWeight="0.5035294" order="2" side_tool="false" content_ui="tabs" x="45" y="363" width="1321" height="220" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27076924" sideWeight="0.4964706" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26385635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27868852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984496" sideWeight="0.4972549" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39692307" sideWeight="0.4972549" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -385,51 +444,14 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/simpleCalculator.py" />
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/calculatorApp.py" />
-    <entry file="file://$PROJECT_DIR$/heartOfEfil/survive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/dataAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/heartOfEfil/survive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/dataAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/heartOfEfil/survive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/dataAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/heartOfEfil/survive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/dataAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/sandbox/learningPython/learningTheConceptOfPython.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file:///usr/lib/python3/dist-packages/numpy/__init__.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247971764/numpy/random/mtrand.py" />
     <entry file="file://$PROJECT_DIR$/test.py.ipynb" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247971764/builtins.py" />
     <entry file="file:///usr/lib/python3.5/ctypes/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -439,14 +461,14 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247971764/_io.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-    <entry file="file://$PROJECT_DIR$/heartOfEfil/survive.py">
+    <entry file="file://$PROJECT_DIR$/heart/survive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brainOfEfil/think.py">
+    <entry file="file://$PROJECT_DIR$/brain/think.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -480,14 +502,14 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/pygame/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/letsPlayWithEfil/snakeGame.py">
+    <entry file="file://$PROJECT_DIR$/games/snakeGame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="137" column="41" lean-forward="false" selection-start-line="137" selection-start-column="41" selection-end-line="137" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/letsPlayWithEfil/ticTacToe.py">
+    <entry file="file://$PROJECT_DIR$/games/ticTacToe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
@@ -529,6 +551,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/core/arrayprint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="1938" column="0" lean-forward="false" selection-start-line="1938" selection-start-column="0" selection-end-line="1938" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/NNWP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/NNWP.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -536,12 +579,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/NNWP.py">
+    <entry file="file:///usr/lib/python3/dist-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        <state relative-caret-position="126">
+          <caret line="111" column="56" lean-forward="false" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/_markupbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/html/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="430" column="8" lean-forward="false" selection-start-line="430" selection-start-column="8" selection-end-line="430" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/projectFiles/spider.py" />
+    <entry file="file://$PROJECT_DIR$/webCrawler/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247971764/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="4586" column="10" lean-forward="true" selection-start-line="4586" selection-start-column="10" selection-end-line="4586" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/functionsForCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/domain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/linkFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
           <folding>
-            <element signature="e#315#333#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="96" lean-forward="false" selection-start-line="49" selection-start-column="96" selection-end-line="49" selection-end-column="96" />
+          <folding>
+            <element signature="e#34#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webCrawler/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

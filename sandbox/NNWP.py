@@ -84,10 +84,13 @@ class neuralNetwork:
 # number of input, hidden and output nodes
 input_nodes = 3
 hidden_nodes = 3
-output_nodes = 3
+output_nodes = 1
 
 # learning rate is 0.3
 learning_rate = 0.3
 
 # create instance of neural network
 n = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
+
+# while n.query([1.0, 0.5, -1.5])<1:
+print(n.query([1.0, 0.5, -1.5]))
