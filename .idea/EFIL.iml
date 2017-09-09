@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/heart" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sandbox" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/webCrawler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/compare" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5.2 (/usr/bin/python3.5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

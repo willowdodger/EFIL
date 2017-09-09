@@ -5,12 +5,12 @@ from domain import *
 from functionsForCrawler import *
 
 
-HOME_PAGE = ""
+HOME_PAGE = "http://coderland.lt/"
 DOMAIN_NAME = get_domain_name(HOME_PAGE)
 PROJECT_NAME = DOMAIN_NAME
 QUEUE_FILE = PROJECT_NAME + "/queue.txt"
 CRAWLED_FILE = PROJECT_NAME + "/crawler.txt"
-NUMBER_OF_THREADS = 8  # number of process will work at one time
+NUMBER_OF_THREADS = 10  # number of process will work at one time
 queue = Queue()
 spider(PROJECT_NAME, HOME_PAGE, DOMAIN_NAME)
 
